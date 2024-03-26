@@ -20,3 +20,5 @@ Pour accéder à votre ensemble de données et modifier les fichiers existants :
 Si vous rencontrez des difficultés pour accéder à votre dossier ou le modifier, veuillez nous en informer.
 
 [L'image ci-dessous montre comment supprimer des fichiers en utilisant l'écran du gestionnaire de fichiers Globus]
+
+![{% t images.file_manager.alt %}]({% t images.file_manager.url %})

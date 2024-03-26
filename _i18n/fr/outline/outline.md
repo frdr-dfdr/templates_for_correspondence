@@ -1,10 +1,10 @@
 # Plan
 
-1. Modèle de requête pour changement générique
-2. Information générale
-   1. Instructions détaillées pour modifier l'ensemble de fichiers et le soumettre à nouveau
-   2. Révision en cours (nous nous excusons pour le retard)
-   3. Attribution de DOI pour l’ensemble de données
+1. [Modèle de requête pour changement générique](generic_change.html)
+2. [Information générale](general_information.html)
+   1. [Instructions détaillées pour modifier l'ensemble de fichiers et le soumettre à nouveau](detailed_instructions.html)
+   2. [Révision en cours (nous nous excusons pour le retard)](review_underway.html)
+   3. [Attribution de DOI pour l’ensemble de données](providing_dataset_doi.html)
 3. Recommandations et questions
    1. Demande de fichier README
    2. Demande de guide de codification

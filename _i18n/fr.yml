@@ -27,3 +27,7 @@ pages:
   detailed_instructions: "Instructions détaillées pour modifier l'ensemble de fichiers et le soumettre à nouveau"
   review_underway: "Révision en cours (nous nous excusons pour le retard)"
   providing_dataset_doi: "Attribution de DOI pour l’ensemble de données"
+images:
+  file_manager:
+    url: "assets/img/fr/file-manager.png"
+    alt: "Capture d'écran montrant le gestionnaire de fichiers du DFDR."

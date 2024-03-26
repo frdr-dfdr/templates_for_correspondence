@@ -1,10 +1,10 @@
 # Outline
 
-1. Generic change request template
-2. General information
-   1. Detailed instructions to modify file set and resubmit
-   2. Review underway (apologies for delay)
-   3. Providing dataset DOI
+1. [Generic change request template](generic_change.html)
+2. [General information](general_information.html)
+   1. [Detailed instructions to modify file set and resubmit](detailed_instructions.html)
+   2. [Review underway (apologies for delay)](review_underway.html)
+   3. [Providing dataset DOI](providing_dataset_doi.html)
 3. Recommendations and questions
    1. Requesting README
    2. Requesting CODEBOOK

@@ -27,3 +27,7 @@ pages:
   detailed_instructions: "Detailed instructions to modify file set and resubmit"
   review_underway: "Review underway (apologies for delay)"
   providing_dataset_doi: "Providing dataset DOI"
+images:
+  file_manager:
+    url: "assets/img/en/file-manager.png"
+    alt: "Screenshot showing the file manager in FRDR."
