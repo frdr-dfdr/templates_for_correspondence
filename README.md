@@ -2,7 +2,7 @@
 
 Materials for the FRDR service team resource: **Templates for Correspondence**
 
-This repository contains resource files, as well as files used to create the [resource webpage](https://frdr-dfdr.github.io/frdr-dfdr/templates_for_correspondence) with GitHub Pages.
+This repository contains resource files, as well as files used to create the [resource webpage](https://frdr-dfdr.github.io/templates_for_correspondence) with GitHub Pages.
 
 Contributions by the following individuals:
 

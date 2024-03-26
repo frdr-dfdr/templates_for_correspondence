@@ -1,5 +1,5 @@
 title: site.title # *** Update site.title in _i18n/en.yml and/or _i18n/fr.yml
-github_repo_url: "https://frdr-dfdr.github.io/frdr-dfdr/templates_for_correspondence" # ***Enter resource URL (in github pages) here i.e., https://frdr-dfdr.github.io/frdr-dfdr/repo_name_in_github
+github_repo_url: "https://frdr-dfdr.github.io/templates_for_correspondence" # ***Enter resource URL (in github pages) here i.e., https://frdr-dfdr.github.io/frdr-dfdr/repo_name_in_github
 gh_edit_repository: "https://github.com/frdr-dfdr/templates_for_correspondence" # *** ENTER the github URL for your repo i.e., https://github.com/frdr-dfdr/repo_name_in_github
 ga_tracking: "" # *** This needs to be set up in Google Analytics once you know the website URL. Then the tracking code needs to be taken from Google Analytics and pasted here.
 
