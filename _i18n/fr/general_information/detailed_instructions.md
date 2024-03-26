@@ -1,10 +1,3 @@
----
-layout: default
-title: pages.detailed_instructions
-parent: pages.general_information
-nav_order: 1
----
-
 # Instructions détaillées pour modifier l'ensemble de fichiers et le soumettre à nouveau
 
 Pour accéder à votre ensemble de données et modifier les fichiers existants :

@@ -1,10 +1,3 @@
----
-layout: default
-title: pages.detailed_instructions
-parent: pages.general_information
-nav_order: 1
----
-
 # Detailed instructions to modify file set and resubmit
 
 To access your dataset and modify the existing files:
