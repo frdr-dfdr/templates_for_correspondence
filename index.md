@@ -1,6 +1,7 @@
 ---
 layout: home
-title: Introduction
+title: pages.introduction
 nav_order: 1
 ---
 
+{% tf introduction/introduction.md %}
