@@ -22,3 +22,8 @@ search:
 pages:
   introduction: "Introduction"
   outline: "Outline"
+  generic_change: "Generic change request template"
+  general_information: "General information"
+  detailed_instructions: "Detailed instructions to modify file set and resubmit"
+  review_underway: "Review underway (apologies for delay)"
+  provding_dataset_doi: "Providing dataset DOI"

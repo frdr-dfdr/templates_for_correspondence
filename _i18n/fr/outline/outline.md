@@ -4,7 +4,7 @@
 2. Information générale
    1. Instructions détaillées pour modifier l'ensemble de fichiers et le soumettre à nouveau
    2. Révision en cours (nous nous excusons pour le retard)
-      2.3. Attribution de DOI pour l’ensemble de données
+   3. Attribution de DOI pour l’ensemble de données
 3. Recommandations et questions
    1. Demande de fichier README
    2. Demande de guide de codification
