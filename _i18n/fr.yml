@@ -1,0 +1,24 @@
+site:
+  language: "English"
+  title: "Titre de la ressource DFDR"
+  back_to_top: "Retour en haut de page"
+  logo:
+    top:
+      file: "https://raw.githubusercontent.com/frdr-dfdr/resource-template/main/assets/img/fr/logo-fr.png"
+      href: "https://www.frdr-dfdr.ca/repo/?locale=fr"
+      alt: "Dépôt fédéré de données de recherche"
+    bottom:
+      file: "https://raw.githubusercontent.com/frdr-dfdr/resource-template/main/assets/img/fr/alliance_logo-fr.png"
+      href: "https://alliancecan.ca/fr"
+      alt: "Alliance de recherche numérique du Canada"
+footer:
+  subtitle: ""
+  attribution: "Une initiative de l'équipe de service du DFDR."
+  license: "Ce travail est sous licence "
+  modified: "Site modifié pour la dernière fois: "
+  edit: "Voir ce contenu sur GitHub"
+search:
+  prompt: "Rechercher sur le site"
+pages:
+  introduction: "Introduction"
+  outline: "Plan"
