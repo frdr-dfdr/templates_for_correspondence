@@ -2,6 +2,7 @@ site:
   language: "Français"
   title: "Templates for Correspondence"
   back_to_top: "Back to top"
+  toc: "Table of Contents"
   logo:
     top:
       file: "https://raw.githubusercontent.com/frdr-dfdr/resource-template/main/assets/img/en/logo.png"
