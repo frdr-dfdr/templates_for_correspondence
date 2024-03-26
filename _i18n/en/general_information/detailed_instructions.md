@@ -18,3 +18,5 @@ To access your dataset and modify the existing files:
 If you experience any difficulty accessing or editing your submission, please let us know.
 
 \[Image below demonstrates how to delete files using Globus File Manager screen\]
+
+![{% t images.file_manager.alt %}]({% t images.file_manager.url %})
