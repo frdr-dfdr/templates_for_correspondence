@@ -1,6 +1,6 @@
 ---
 layout: default
 title: pages.review_underway
-parent: pages.general_information
+parent: General Information
 nav_order: 2
 ---

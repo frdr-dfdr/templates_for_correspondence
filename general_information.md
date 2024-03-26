@@ -1,6 +1,6 @@
 ---
 layout: default
-title: pages.general_information
+title: General Information
 nav_order: 4
 has_children: true
 has_toc: true

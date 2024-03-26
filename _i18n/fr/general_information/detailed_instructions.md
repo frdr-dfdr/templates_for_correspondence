@@ -1,7 +1,7 @@
 ---
 layout: default
 title: pages.detailed_instructions
-parent: pages.general_information
+parent: General Information
 nav_order: 1
 ---
 
