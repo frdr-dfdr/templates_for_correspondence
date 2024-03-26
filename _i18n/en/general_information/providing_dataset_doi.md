@@ -1,6 +1,6 @@
 ---
 layout: default
 title: pages.providing_dataset_doi
-parent: General Information
+parent: pages.general_information
 nav_order: 3
 ---
