@@ -13,9 +13,6 @@ site:
       href: "https://alliancecan.ca/en"
       alt: "Digital Research Alliance of Canada"
 footer:
-  subtitle: ""
-  attribution: "Brought to you by the FRDR service team."
-  license: "This work is licensed under a "
   modified: "Site last modified: "
   edit: "View this content on GitHub"
 search:

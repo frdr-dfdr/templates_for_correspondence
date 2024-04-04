@@ -13,9 +13,6 @@ site:
       href: "https://alliancecan.ca/fr"
       alt: "Alliance de recherche numérique du Canada"
 footer:
-  subtitle: ""
-  attribution: "Une initiative de l'équipe de service du DFDR."
-  license: "Ce travail est sous licence "
   modified: "Site modifié pour la dernière fois: "
   edit: "Voir ce contenu sur GitHub"
 search:
