@@ -9,7 +9,7 @@ nav_footer_logo_bottom: site.logo.bottom.file
 nav_footer_logo_bottom_href: site.logo.bottom.href
 nav_footer_logo_bottom_alt: site.logo.bottom.alt
 nav_footer_logo_top: site.logo.top.file
-nav_footer_logo_top_href: site.logo.bottom.href
+nav_footer_logo_top_href: site.logo.top.href
 nav_footer_logo_top_alt: site.logo.top.alt
 
 languages: ["en", "fr"] # *** Leave as is for EN/FR or EN only documents. Change to ["fr", "en"] for FR only documents.
