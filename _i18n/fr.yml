@@ -15,7 +15,7 @@ site:
 footer:
   modified: "Site modifié pour la dernière fois: "
   edit: "Voir ce contenu sur GitHub"
-    linkedin:
+  linkedin:
     aria: "Alliance de recherche numérique du Canada Linked In"
     url: "https://www.linkedin.com/company/alliancecan/"
   twitter:
