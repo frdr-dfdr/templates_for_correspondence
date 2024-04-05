@@ -15,6 +15,12 @@ site:
 footer:
   modified: "Site last modified: "
   edit: "View this content on GitHub"
+  linkedin:
+    aria: "Digital Research of Alliance Canada Linked In page"
+    url: "https://www.linkedin.com/company/alliancecan/"
+  twitter:
+    aria: "Digital Research of Alliance Canada Twitter page"
+    url: "https://twitter.com/Alliance_Can"
 search:
   prompt: "Search the website"
 pages:
