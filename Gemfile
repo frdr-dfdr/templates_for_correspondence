@@ -15,3 +15,4 @@ gem "rake"
 gem 'jekyll-relative-links'
 gem 'jekyll-multiple-languages-plugin'
 gem "google-protobuf", ">= 3.25.5"
+gem "webrick", ">= 1.8.2"
